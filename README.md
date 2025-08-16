@@ -20,3 +20,6 @@ This project explores and analyzes avocado sales data across various U.S. region
   Data Preprocessing (preprocessing.ipynb`)
 - Checked null values
 - Converted date to `datetime`
+
+##Trello board
+https://trello.com/invite/b/68a0e6e91cfc12ff3d087ce4/ATTIbc033fe7f920caf7bc242639ecb53de53BE51B27/avocado-data-project
