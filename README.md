@@ -21,5 +21,13 @@ This project explores and analyzes avocado sales data across various U.S. region
 - Checked null values
 - Converted date to `datetime`
 
+**- Modelling**
+Linear Regression
+Random Forest
+Ridge
+
+Test for accuracy
+
 ##Trello board
-https://trello.com/invite/b/68a0e6e91cfc12ff3d087ce4/ATTIbc033fe7f920caf7bc242639ecb53de53BE51B27/avocado-data-project
+
+https://trello.com/b/ZGyhKjyz/avocado-data-project
