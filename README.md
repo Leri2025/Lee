@@ -27,7 +27,13 @@ Random Forest
 Ridge
 
 Test for accuracy
+** Evaluation and validation
+Confusion Matrix
+Visualisation
+** Final Model
+** Conclusion
 
 ##Trello board
 
 https://trello.com/b/ZGyhKjyz/avocado-data-project
+
